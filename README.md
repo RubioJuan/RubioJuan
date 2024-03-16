@@ -1,4 +1,7 @@
-### Hello👋 I'm Juan Rubio, 
+### Hello👋 I'm Juan Felipe Rubio Sanabria,a Passionate Software Developer 
+
+
+I am in the world of technology, immersed in lines of code 👨🏻‍🚀 when I am not programming, I am doing another activity that strengthens my learning such as English or recreational activities since these help me clear my mind and have a better capacity in the moment of program.📱
 
 <!--
 **RubioJuan/RubioJuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
