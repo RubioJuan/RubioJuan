@@ -9,13 +9,12 @@ I am in the world of technology, immersed in lines of code 👨🏻‍🚀 when 
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="css/style.css">
-</head>
-    <style>
+  <style>
         .ContainerImg{
             text-align: center;
         }
     </style>
+</head>
 <body>
      <div class="ContainerImg">
         <h2>knowledge</h2>
