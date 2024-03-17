@@ -10,9 +10,8 @@ I am in the world of technology, immersed in lines of code 👨🏻‍🚀 when 
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-    # knowledge
-
 <p align="center">
+    <h1>knowledge</h1>
   <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" width="60" height="60">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/2048px-HTML5_Badge.svg.png" width="60" height="60">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" width="60" height="60">
