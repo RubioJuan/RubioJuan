@@ -7,13 +7,13 @@ I am in the world of technology, immersed in lines of code 👨🏻‍🚀 when 
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <style>
+    <style>
         .ContainerImg{
             text-align: center;
         }
     </style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
      <div class="ContainerImg">
