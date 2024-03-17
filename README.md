@@ -14,7 +14,7 @@ I am in the world of technology, immersed in lines of code 👨🏻‍🚀 when 
 <body>
      <div class="ContainerImg">
         <h2>knowledge</h2>
-        <img src="https://banner2.cleanpng.com/20190623/yp/kisspng-python-computer-icons-programming-language-executa-5d0f0aa79779a6.6143656815612668556205.jpg" width="80" height="80"</img> 
+        <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" width="80" height="80"</img> 
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/2048px-HTML5_Badge.svg.png" width="80" height="80">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" width="80" height="80">
         <img src="https://e7.pngegg.com/pngimages/602/440/png-clipart-javascript-open-logo-number-js-angle-text.png" width="80" height="80">  
