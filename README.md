@@ -11,6 +11,11 @@ I am in the world of technology, immersed in lines of code 👨🏻‍🚀 when 
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="css/style.css">
 </head>
+    <style>
+        .ContainerImg{
+            text-align: center;
+        }
+    </style>
 <body>
      <div class="ContainerImg">
         <h2>knowledge</h2>
