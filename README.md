@@ -16,6 +16,7 @@ I am in the world of technology, immersed in lines of code 👨🏻‍🚀 when 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" width="50" height="50">
   <img src="https://e7.pngegg.com/pngimages/602/440/png-clipart-javascript-open-logo-number-js-angle-text.png" width="50" height="50">
   <img src="https://victorroblesweb.es/wp-content/uploads/2018/04/git.png" width="50" height="50">    
+    <img src="![image](https://github.com/RubioJuan/RubioJuan/assets/152001380/682b987b-2a67-45ce-882b-9aa8c5742c49)" width="50" height="50">    
 </p>
 
 </body>
