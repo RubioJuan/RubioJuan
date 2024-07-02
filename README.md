@@ -1,4 +1,4 @@
-<h1 align="center">Hello👋 I'm Juan Felipe Rubio Sanabria <br> a Passionate Software Developer </h1>
+<h1 align="center">Hello👋 I'm Juan Felipe Rubio Sanabria <br> a lover Software Developer </h1>
 
 I am in the world of technology, immersed in lines of code 👨🏻‍🚀 when I am not programming, I am doing another activity that strengthens my learning such as English or recreational activities since these help me clear my mind and have a better capacity in the moment of program.📱
 
@@ -17,7 +17,7 @@ I am in the world of technology, immersed in lines of code 👨🏻‍🚀 when 
   <img src="https://static.vecteezy.com/system/resources/previews/027/127/463/original/javascript-logo-javascript-icon-transparent-free-png.png" width="50" height="50">
   <img src="https://victorroblesweb.es/wp-content/uploads/2018/04/git.png" width="50" height="50">    
   <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" width="50" height="50">    
-<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/mysql_logo_icon_169940.png" height="50">    
+<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/mysql_logo_icon_169940.png" width="50" height="50">    
 </p>
 
 </body>
