@@ -1,6 +1,6 @@
 <h1 align="center">Hello👋 I'm Juan Felipe Rubio Sanabria <br> a lover Software Developer </h1>
 
-I am in the world of technology, immersed in lines of code 👨🏻‍🚀 when I am not programming, I am doing another activity that strengthens my learning such as English or recreational activities since these help me clear my mind and have a better capacity in the moment of program.📱
+I am in the world of technology, immersed in lines of code 👨🏻‍🚀 when I am not programming, I am doing another activity that strengthens my learning such as English or recreational activities since these help me clear my mind and have a better capacity in the moment of coding.📱
 
 <!DOCTYPE html>
 <html lang="en">
