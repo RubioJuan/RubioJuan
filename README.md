@@ -22,6 +22,24 @@ I am in the world of technology, immersed in lines of code 👨🏻‍🚀 when 
 
 </body>
 </html>
+<picture style="jutify">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CODE-G-ROOT/CODE-G-ROOT/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CODE-G-ROOT/CODE-G-ROOT/output/github-contribution-grid-snake.svg">
+</picture>  
+<br><br>
+
+<div align="center">
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rubiojuan&show_icons=true&locale=en&layout=compact" alt="rubiojuan" />
+  </p>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=rubiojuan&show_icons=true&locale=en" alt="rubiojuan" />
+  </p>
+  <p>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rubiojuan&" alt="rubiojuan" />
+  </p>
+</div>
+
 <!--
 **RubioJuan/RubioJuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
