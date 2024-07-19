@@ -1,5 +1,14 @@
 <h1 align="center">Hello👋 I'm Juan Felipe Rubio Sanabria <br> a lover Software Developer </h1>
 
+<div align="center">
+<h1 align="center">
+        <samp>&gt; Juan Rubio 
+                <b>(<a target="_blank" href="https://rincondelfabo.vercel.app/">Portfolio</a>)</b>
+        </samp><img src="https://media.giphy.com/media/mlUQW9bMGPDFCU8rMB/giphy.gif" width="30px" height="30px" />
+</h1>
+
+<img src="https://raw.githubusercontent.com/lgzarturo/lgzarturo/master/assets/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" alt="GitHub" style="float: right;" align="right"  width="50" height="50"/>
+
 I am in the world of technology, immersed in lines of code 👨🏻‍🚀 when I am not programming, I am doing another activity that strengthens my learning such as English or recreational activities since these help me clear my mind and have a better capacity in the moment of coding.📱
 
 <!DOCTYPE html>
