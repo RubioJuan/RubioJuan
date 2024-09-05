@@ -3,13 +3,11 @@
 <div align="center">
 <h1 align="center">
         <samp>&gt; Juan Rubio 
-                <b>(<a target="_blank" href="https://github.com/RubioJuan">Portfolio</a>)</b>
-        </samp><img src="https://media.giphy.com/media/mlUQW9bMGPDFCU8rMB/giphy.gif" width="30px" height="30px" />
 </h1>
 
 <img src="https://raw.githubusercontent.com/lgzarturo/lgzarturo/master/assets/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" alt="GitHub" style="float: right;" align="right"  width="50" height="50"/>
 
-I am in the world of technology, immersed in lines of code 👨🏻‍🚀 when I am not programming, I am doing another activity that strengthens my learning such as English or recreational activities since these help me clear my mind and have a better capacity in the moment of coding.📱
+I am in the world of technology, immersed in lines of code 👨🏻‍🚀 when I am not programming, I'm doing another activity that strengthens my learning such as English or recreational activities since these help me clear my mind and have a better capacity in the moment of coding.📱
 
 <!DOCTYPE html>
 <html lang="en">
@@ -28,6 +26,7 @@ I am in the world of technology, immersed in lines of code 👨🏻‍🚀 when 
   <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" width="50" height="50">    
 <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/mysql_logo_icon_169940.png" width="50" height="50">              
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Spring_Boot.svg/640px-Spring_Boot.svg.png" width="50" height="50">    
+<img src="https://cdn.iconscout.com/icon/free/png-256/free-postgresql-logo-icon-download-in-svg-png-gif-file-formats--programming-langugae-freebies-pack-logos-icons-1175119.png?f=webp" width="50" height="50"> 
 
 </p>
 
