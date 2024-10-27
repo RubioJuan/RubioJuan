@@ -42,8 +42,8 @@ I'm in the world of technology, immersed in lines of code 👨🏻‍🚀 when I
   
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rubiojuan&show_icons=true&locale=en&layout=compact&theme=algolia&bg_color=0,000000,130F40&border_radius=8&langs_count=20&hide=hack,swift,kotlin,objective-c" alt="rubiojuan" />
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=RubioJuan&theme=tokyonight&border_radius=20&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" /></a>  </p>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=RubioJuan&theme=tokyonight&border_radius=20&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" />  </p>
 </div>
-<a href="https://visitcount.itsvg.in">
+
   <img src="https://visitcount.itsvg.in/api?id=RubioJuan&label=Profile%20Views&color=0&icon=5&pretty=false" />
-</a>
+
