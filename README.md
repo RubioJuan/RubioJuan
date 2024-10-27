@@ -7,7 +7,7 @@
 
 <img src="https://raw.githubusercontent.com/lgzarturo/lgzarturo/master/assets/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" alt="GitHub" style="float: right;" align="right"  width="50" height="50"/>
 
-I am in the world of technology, immersed in lines of code 👨🏻‍🚀 when I am not programming, I'm doing another activity that strengthens my learning such as English or recreational activities since these help me clear my mind and have a better capacity in the moment of coding.📱
+I'm in the world of technology, immersed in lines of code 👨🏻‍🚀 when I am not programming, I'm doing another activity that strengthens my learning such as English or recreational activities since these help me clear my mind and have a better capacity in the moment of coding.📱
 
 <!DOCTYPE html>
 <html lang="en">
@@ -39,28 +39,11 @@ I am in the world of technology, immersed in lines of code 👨🏻‍🚀 when 
 <br><br>
 
 <div align="center">
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rubiojuan&show_icons=true&locale=en&layout=compact" alt="rubiojuan" />
-  </p>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=rubiojuan&show_icons=true&locale=en" alt="rubiojuan" />
-  </p>
-  <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rubiojuan&" alt="rubiojuan" />
-  </p>
+  
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=rubiojuan&show_icons=true&locale=en&layout=compact&theme=algolia&bg_color=0,000000,130F40&border_radius=8&langs_count=20&hide=hack,swift,kotlin,objective-c" alt="rubiojuan" />
+
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=RubioJuan&theme=tokyonight&border_radius=20&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" /></a>  </p>
 </div>
-
-<!--
-**RubioJuan/RubioJuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=RubioJuan&label=Profile%20Views&color=0&icon=5&pretty=false" />
+</a>
